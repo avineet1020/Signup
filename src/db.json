@@ -1,0 +1,25 @@
+{
+  "posts": 
+    [
+      {
+        "id": 2,
+        "name": "avineet1020@gmail.com",
+        "email": "avineet1020@gmail.com",
+        "mobile": "08872269665",
+        "address": "#62 sector 38A"
+      },
+      {
+        "id": 4,
+        "name": "acom",
+        "email": "avineet1020@gmail.com",
+        "mobile": "08872269665",
+        "address": "#62 sector 38A"
+      }
+    ],
+  
+  "signup": [],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
